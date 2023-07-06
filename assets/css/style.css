@@ -7,25 +7,7 @@
     Author URI: http://HasTech.com
     Version: 2.0.3
 
------------------------------------------------------------------------------------
-    
-    CSS INDEX
-    ===================
-	
-    1. Template default css (assets/css/bundle.css)
-    2. Home page one
-    3. Home page two
-    4. Home page three
-    5. Home page four
-    6. About page
-    7. Causes page
-    8. Event page
-    9. Before volunter page
-    10. Contact page
-    11. Blog sidebar page
-    12. Single blog
-    13. 404 page
-    
+
 -----------------------------------------------------------------------------------*/
 
 
@@ -1734,13 +1716,13 @@ h2.counter {
 
 .join-form form input {
     background: #fff none repeat scroll 0 0;
-    border: medium none;
+    /* border: medium none; */
     border-radius: 10px;
     color: #888888;
     font-family: open sans;
     font-size: 16px;
-    height: 55px;
-    padding: 3px 10px 3px 30px;
+    /* height: 55px; */
+    padding: 6px 15px;
 }
 
 .join-form form input::-webkit-input-placeholder,
@@ -1763,14 +1745,14 @@ h2.counter {
 
 .join-form select {
     -moz-appearance: none;
-    background: rgb(255, 255, 255) url("../img/icon-img/select.png") no-repeat scroll right 30px center;
-    border: medium none;
+    /* background: rgb(255, 255, 255) url("../img/icon-img/select.png") no-repeat scroll right 30px center; */
+    /* border: medium none; */
     border-radius: 10px;
     color: #888888;
     font-family: open sans;
     font-size: 16px;
-    height: 55px;
-    padding: 3px 30px;
+    /* height: 55px; */
+    padding: 6px 15px;
     position: relative;
 }
 
