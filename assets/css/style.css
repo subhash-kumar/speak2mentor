@@ -1523,7 +1523,7 @@ h2.counter {
 
 .leave-form form input {
     background-color: transparent;
-    border-color: #dddddd;
+    border-color: #aaaaaa;
     border-style: solid;
     border-width: 0 0 1px;
     color: #aaaaaa;
@@ -1545,7 +1545,7 @@ h2.counter {
 
 .leave-form form textarea {
     background-color: transparent;
-    border-color: #dddddd;
+    border-color: #aaaaaa;
     border-style: solid;
     border-width: 0 0 1px;
     color: #aaaaaa;
