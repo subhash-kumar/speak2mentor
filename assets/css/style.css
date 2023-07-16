@@ -257,11 +257,11 @@
 }
 
 .slider-text>a {
-    border-radius: 50px;
+    border-radius: 12px;
     color: #fff;
     font-size: 16px;
     margin-top: 46px;
-    padding: 14px 35px;
+    padding: 10px 35px;
     text-transform: uppercase;
 }
 
@@ -863,10 +863,11 @@ h2.counter {
 }
 
 .action-button a.button {
-    color: #ff6634;
+    color: #FFF;
     font-size: 16px;
     padding: 11px 29px;
-    border: 1px solid #fff;
+    border: 1px solid #ff6634;
+    background: #ff6634;
 }
 
 .action-button a.button:hover {
