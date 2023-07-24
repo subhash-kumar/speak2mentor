@@ -1723,7 +1723,7 @@ h2.counter {
     font-family: open sans;
     font-size: 16px;
     /* height: 55px; */
-    padding: 6px 15px;
+    /* padding: 8px 15px; */
 }
 
 .join-form form input::-webkit-input-placeholder,
