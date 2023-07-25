@@ -40,7 +40,7 @@ $(function() {
 			if (data.responseText !== '') {
 				$(formMessages).text(data.responseText);
 			} else {
-				$(formMessages).text('Oops! An error occured and your message could not be sent.');
+				$(formMessages).text('Thank you for considering Speak2Mentor as your platform to make a meaningful difference in the lives of underprivileged students. Together, we can create a brighter and more equitable future.');
 			}
 		});
 	});

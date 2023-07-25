@@ -1710,7 +1710,7 @@ textarea:focus {
 }
 
 [data-overlay]::before {
-  background: #000 none repeat scroll 0 0;
+  background: #ab9dda none repeat scroll 0 0;
   content: "";
   height: 100%;
   left: 0;
@@ -1733,7 +1733,7 @@ textarea:focus {
 }
 
 [data-overlay="5"]::before {
-  opacity: 0.5;
+  opacity: 0.3;
 }
 
 [data-overlay="5.5"]::before {
