@@ -231,16 +231,16 @@
 
 .slider-text h2 {
     color: #fff;
-    font-size: 30px;
+    font-size: 24px;
     font-weight: bold;
     margin: 0;
 }
 
 .slider-text h1 {
     color: #fff;
-    font-size: 60px;
+    font-size: 40px;
     font-weight: bold;
-    margin: 14px 0 19px;
+    margin: 0px 0 9px;
 }
 
 .slider-text h2 span,
@@ -250,9 +250,9 @@
 
 .slider-text p {
     color: #fff;
-    font-size: 18px;
-    line-height: 30px;
-    margin: 0 auto;
+    font-size: 16px;
+    line-height: 18px;
+    /* margin: 0 auto; */
     width: 55%;
 }
 
@@ -260,7 +260,7 @@
     border-radius: 12px;
     color: #fff;
     font-size: 16px;
-    margin-top: 46px;
+    margin-top: 10px;
     padding: 10px 35px;
     text-transform: uppercase;
 }
