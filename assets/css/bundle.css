@@ -1697,6 +1697,7 @@ textarea:focus {
 
 .theme-bg {
   background: #622d7b;
+  vertical-align: middle;
 }
 
 .transparent-bg {
