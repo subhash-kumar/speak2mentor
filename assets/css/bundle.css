@@ -728,7 +728,7 @@ a.button-small:hover::after {
 input {
   background: #eceff8;
   border: 2px solid #d7d8db;
-  /* height: 35px; */
+  height: 44px;
   box-shadow: none;
   padding-left: 10px;
   font-size: 14px;
