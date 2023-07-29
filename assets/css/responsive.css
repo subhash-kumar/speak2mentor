@@ -454,13 +454,16 @@
   }
 
   .slider-text p {
-    width: 100%;
+    /* width: 100%; */
+    width: 200px;
+    line-height: 21px;
   }
 
   .slider-text h1 {
-    font-size: 30px;
+    font-size: 28px;
     line-height: 40px;
     margin: 7px 0 10px;
+    width: 200px;
   }
 
   .section-title p {
