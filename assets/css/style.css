@@ -446,7 +446,7 @@
 .single-causes:hover {
     background: #ffffff none repeat scroll 0 0;
     box-shadow: 5px 5px 5px rgba(85, 85, 85, 0.2);
-    outline: 3px solid #622e79;
+    outline: 3px solid #ddd;
 
 }
 
@@ -473,9 +473,10 @@
 }
 
 .causes-info a.button {
-    border-radius: 50px;
+    border-radius: 10px;
+    line-height: 22px;
     font-size: 14px;
-    padding: 8px 20px 7px;
+    padding: 8px 20px;
     text-transform: capitalize;
 }
 
