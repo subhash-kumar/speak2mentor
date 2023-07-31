@@ -1912,7 +1912,7 @@ textarea:focus {
 }
 
 .bg-img {
-  background-position: center center;
+  background-position: top right;
   background-size: cover;
 }
 

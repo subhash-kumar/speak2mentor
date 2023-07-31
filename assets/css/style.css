@@ -238,9 +238,10 @@
 
 .slider-text h1 {
     color: #622d7b;
-    font-size: 48px;
+    font-size: 50px;
     font-weight: bold;
     margin: 0px 0 9px;
+    width: 500px;
 }
 
 .slider-text h2 span,
