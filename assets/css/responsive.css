@@ -563,6 +563,10 @@
     color: #fff;
   }
 
+  .grow-text {
+    text-align: justify;
+  }
+
   .slider-text.slider-text-2 p, .slider-text.slider-text-3 p {
     width: 100%;
   }
