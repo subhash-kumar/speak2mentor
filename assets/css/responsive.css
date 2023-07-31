@@ -567,6 +567,10 @@
     text-align: justify;
   }
 
+  .logo img {
+    max-width: 130px;
+  }
+
   .slider-text.slider-text-2 p, .slider-text.slider-text-3 p {
     width: 100%;
   }
