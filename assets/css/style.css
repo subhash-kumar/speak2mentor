@@ -2365,3 +2365,76 @@ button:focus {
     border: 1px solid;
     background: transparent;
 }
+
+
+
+/* Team */
+.team {
+    display: flex;
+    justify-content: center;
+    width: auto;
+    text-align: center;
+    flex-wrap: wrap;
+    background-color: transparent;
+}
+
+.team .team_member {
+    background: #fff;
+    margin: 10px;
+    margin-bottom: 50px;
+    width: 300px;
+    padding: 20px;
+    line-height: 20px;
+    color: #8e8b8b;
+    position: relative;
+    border-radius: 12px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.team .team_member h3 {
+    color: #000;
+    font-size: 26px;
+    margin-top: 50px;
+}
+
+.team .team_member p.role {
+    color: orange;
+    margin: 12px 0;
+    font-size: 13px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.team .team_member .team_img {
+    position: absolute;
+    top: -50px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background: #fff;
+    border: 5px solid orange;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.team .team_member .team_img img {
+    width: 90px;
+    height: 90px;
+    padding: 5px;
+    border-radius: 50%;
+}
+
+.credit {
+    text-align: center;
+    color: #000;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.credit a {
+    text-decoration: none;
+    color: #000;
+    font-weight: bold;
+}
+
+/* /team */
